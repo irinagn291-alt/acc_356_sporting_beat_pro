@@ -1,0 +1,5 @@
+On a clean install, the app opens at the Foley desk with a silent, looping eight-second football clip. Try the cushion, keys and corrugated card, then tap the cue count for timing and prop guidance. Tap Record, wait for the three-second countdown and perform along with the cues. Screening shows the replay, hit count and cue feedback. You can save a take at any score. Saving a passing standard take unlocks the next order.
+
+To test editing, open Timeline from Screening, select a track and re-record the selected range. Only the selected track changes within that range. Save the resulting take and reopen it from the Tape shelf. To test Final broadcast, complete all 16 orders and select one saved take per sport. Creative takes can be selected for broadcast.
+
+The app runs entirely offline. It records on-screen gesture events and uses AVFoundation to play bundled samples. Takes and progress are stored locally. There are no permission prompts, microphone or camera access, accounts, network services, cloud sync, analytics, ads, purchases or external sharing. Simulator builds run without audible gameplay or haptic feedback.
